@@ -1,0 +1,16 @@
+{
+  "name": "fast-crypto",
+  "version": "1.0.3",
+  "description": "Hash Crypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hash",
+    "nodejs",
+    "crypto"
+  ],
+  "author": "Muhammad Nabeel",
+  "license": "ISC"
+}
