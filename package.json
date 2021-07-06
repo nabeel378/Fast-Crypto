@@ -1,6 +1,6 @@
 {
   "name": "fast-crypto",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hash Crypt",
   "main": "index.js",
   "scripts": {

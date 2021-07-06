@@ -10,7 +10,7 @@ hashAlgoritham.hasher = (password, salt) => {
     return value;
 };
 
-hashAlgoritham.hash = (password, salt=salt) => {
+hashAlgoritham.hash = (password, salt='f8441141w++++++++++++__________!@#$%^&*()@#$%^&*(!@#$%^&*()!@#$%^&*(zxcvbnmnbvfrtyhnbgyhjnbgyuj6487b09f1141616487f50c') => {
     if (password == null || salt == null) {
         throw new Error('Must Provide Password and salt values');
     }
